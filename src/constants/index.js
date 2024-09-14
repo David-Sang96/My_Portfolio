@@ -60,7 +60,7 @@ export const PROJECTS = [
     demo: "https://booking-app-glea.onrender.com/",
   },
   {
-    title: "Streaming Service Clone",
+    title: "Streaming Service",
     image: netFlixApp,
     description:
       "A Netflix-inspired streaming app showcasing movies and series with user authentication and media streaming.",

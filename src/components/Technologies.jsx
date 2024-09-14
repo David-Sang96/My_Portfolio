@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { BiLogoPostgresql } from "react-icons/bi";
 import { FaNodeJs } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
-import { RiReactjsLine } from "react-icons/ri";
+import { RiReactjsLine, RiTailwindCssFill } from "react-icons/ri";
 import { SiExpress, SiMongodb, SiPrisma, SiRedux } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 import { VscGithubInverted } from "react-icons/vsc";
@@ -116,6 +116,14 @@ const Technologies = () => {
           className="p-4"
         >
           <VscGithubInverted />
+        </motion.div>
+        <motion.div
+          initial="initial"
+          animate="animate"
+          variants={iconVariants(4)}
+          className="p-4 text-[#38BDF8]"
+        >
+          <RiTailwindCssFill />
         </motion.div>
       </motion.div>
     </div>
