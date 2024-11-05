@@ -1,4 +1,5 @@
 import chatApp from "../assets/projects/chat.jpg";
+import dNoteApp from "../assets/projects/d-notes.jpg";
 import hotelApp from "../assets/projects/hotel.jpg";
 import netFlixApp from "../assets/projects/netflix.jpg";
 import recipesApp from "../assets/projects/recipes.jpg";
@@ -43,6 +44,14 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Note Application",
+    image: dNoteApp,
+    description:
+      "A simple app for users to create, manage, and share their notes with images effortlessly.",
+    technologies: ["Tailwind", "Typescript", "React", "Express", "MongoDB"],
+    demo: "https://dnotepri.onrender.com",
+  },
   {
     title: "Real-Time Chat Application",
     image: chatApp,
