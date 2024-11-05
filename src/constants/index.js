@@ -69,10 +69,10 @@ export const PROJECTS = [
     demo: "https://booking-app-glea.onrender.com/",
   },
   {
-    title: "Streaming Service",
+    title: "Movie Platform",
     image: netFlixApp,
     description:
-      "A Netflix-inspired streaming app showcasing movies and series with user authentication and media streaming.",
+      "A Netflix-inspired streaming app showcasing movies and series with user authentication and watch the favorite movies.",
     technologies: ["Tailwind", "React", "Express", "MongoDB"],
     demo: "https://movie-app-kozt.onrender.com/",
   },
