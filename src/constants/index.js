@@ -5,8 +5,7 @@ import netFlixApp from "../assets/projects/netflix.jpg";
 import recipesApp from "../assets/projects/recipes.jpg";
 
 export const HERO_CONTENT = `I am self-taught passionate full stack  developer with a strong sense of responsibility
-and organization, seeking my first professional opportunity in the field.
-As a Junior Web Developer, I am passionate about modern web
+and organization.I am passionate about modern web
 development and have developed skills in creating web applications
 using frameworks and library of Javascript and CSS. I'm excited to bring my skills and enthusiasm to a great team.`;
 
