@@ -1,6 +1,6 @@
 import chatApp from "../assets/projects/chat.jpg";
 import dNoteApp from "../assets/projects/d-notes.jpg";
-import fashion_blog from "../assets/projects/fashion_blog.jpg.jpg";
+import fashion_blog from "../assets/projects/fashion_blog.jpg";
 import hotelApp from "../assets/projects/hotel.jpg";
 import netFlixApp from "../assets/projects/netflix.jpg";
 import recipesApp from "../assets/projects/recipes.jpg";
