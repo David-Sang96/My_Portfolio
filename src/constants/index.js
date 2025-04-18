@@ -2,6 +2,7 @@ import chatApp from "../assets/projects/chat.jpg";
 import dNoteApp from "../assets/projects/d-notes.jpg";
 import fashion_blog from "../assets/projects/fashion_blog.jpg";
 import hotelApp from "../assets/projects/hotel.jpg";
+import iCore from "../assets/projects/iCore.png";
 import netFlixApp from "../assets/projects/netflix.jpg";
 import recipesApp from "../assets/projects/recipes.jpg";
 
@@ -44,6 +45,20 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Ecomerce Application",
+    image: iCore,
+    description:
+      "A full-stack eCommerce platform for selling phones with full admin control.",
+    technologies: [
+      "Shadcn",
+      "Typescript",
+      "NextJs",
+      "PostgreSQL",
+      "Uploadthing",
+    ],
+    demo: "https://icore-shop-psi.vercel.app/",
+  },
   {
     title: "Fashion Blog",
     image: fashion_blog,

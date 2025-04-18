@@ -48,7 +48,7 @@ const Projects = () => {
                   rel="noopener noreferrer"
                   aria-label="project link"
                 >
-                  View Now?
+                  View Now
                 </a>
               </div>
               <p className="mb-4 text-stone-400">{project.description}</p>
